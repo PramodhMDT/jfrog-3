@@ -1,1 +1,2 @@
 *.acd filter=lfs diff=lfs merge=lfs -text
+*.mcd filter=lfs diff=lfs merge=lfs -text
